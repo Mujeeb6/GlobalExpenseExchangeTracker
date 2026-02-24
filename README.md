@@ -28,4 +28,4 @@ The app strictly adheres to **Clean Architecture** to ensure separation of conce
 To run this project locally:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/GlobalExpenseExchangeTracker.git](https://github.com/YourUsername/GlobalExpenseExchangeTracker.git)
+   git clone [https://github.com/Mujeeb6/GlobalExpenseExchangeTracker.git](https://github.com/Mujeeb6/GlobalExpenseExchangeTracker.git)
